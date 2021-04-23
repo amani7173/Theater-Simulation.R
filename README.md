@@ -2,7 +2,7 @@
 
 Team Members:
 
-Amani Almarzoog
+Amani Almarzoog /n
 Mazen Asiri
 Mamdouh Alomari
 Shikhah Alhuzimi
