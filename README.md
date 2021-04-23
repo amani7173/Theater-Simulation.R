@@ -2,30 +2,34 @@
 
 Team Members:
 
-Amani Almarzoog , 
-Mazen Asiri , 
-Mamdouh Alomari , 
+Amani Almarzoog 
+
+Mazen Asiri 
+
+Mamdouh Alomari 
+
 Shikhah Alhuzimi 
+
 
 In this project, we used the R language
 
-We Determined the ticket costs for children and adults , 
+We Determined the ticket costs for children and adults 
 
-We List our 5 favourite movies , 
+We List our 5 favourite movies 
 
-We Determined how many movie theatres screens our theatre has , 
+We Determined how many movie theatres screens our theatre has  
 
-We Determined how many seats each theatre seats , 
-We used Loop iterate through the week ,
+We Determined how many seats each theatre seats  
+We used Loop iterate through the week 
 
 
-keep track of total revenue for the day , 
+keep track of total revenue for the day  
 
-We used Loop iterate through the amount of screens on a particular day , 
+We used Loop iterate through the amount of screens on a particular day  
 
-we calculated how many adults and children are watching the movie , 
+we calculated how many adults and children are watching the movie  
 
-We calculated the revenue for adults and children , 
+We calculated the revenue for adults and children 
 
 We Calculated current screen revenue, by add to running total for the day.
 
